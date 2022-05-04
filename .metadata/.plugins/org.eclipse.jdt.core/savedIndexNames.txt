@@ -1,0 +1,2 @@
+INDEX VERSION 1.131+C:\Users\jramo\eclipse\workspace\estudos\bankine-api\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
