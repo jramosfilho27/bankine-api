@@ -8,7 +8,7 @@ public class BanklineApiApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(BanklineApiApplication.class, args);
-		// Iniciando a codificação do projeto
+		// Iniciando a codificação do projeto bankline-api
 	}
 
 }
